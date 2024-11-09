@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 4.012476288460307,
+        "error": 0.0,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -9,17 +9,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 400,
         "include_baseline_error": false,
         "n": 400,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 1583.5757754997403
+        "value": 1530.0
     },
     "Ar37": {
-        "error": 3.3094147567362193e-07,
+        "error": 5.866921754865719e-13,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -28,14 +28,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 8.205192570029351e-05
+        "value": 8.213939393742929e-05
     },
     "Ar38": {
         "error": 3.2139429797149863e-07,
@@ -57,7 +57,7 @@
         "value": 1.5319980084609265e-05
     },
     "Ar39": {
-        "error": 6.818697800837393e-07,
+        "error": 1.547241302905237e-12,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -66,14 +66,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.0008319203099726496
+        "value": 0.0008361889317023376
     },
     "Ar40": {
         "error": 5.692149555897995e-06,

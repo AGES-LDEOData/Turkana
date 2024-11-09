@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.7859305600708392,
+        "error": 10.984661626828595,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -9,14 +9,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 400,
         "include_baseline_error": false,
         "n": 400,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 37.44068690247493
+        "value": 35.555953449111485
     },
     "Ar37": {
         "error": 4.088382667647966e-07,
@@ -57,7 +57,7 @@
         "value": 1.124162166869212e-06
     },
     "Ar39": {
-        "error": 3.353743481588149e-07,
+        "error": 8.935181878817298e-13,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -66,17 +66,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 4.2517894995418154e-06
+        "value": 3.986288087758834e-06
     },
     "Ar40": {
-        "error": 1.0549107650590588e-06,
+        "error": 1.5785770514288522e-12,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -85,13 +85,13 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.00020540816751302761
+        "value": 0.00019591384222462612
     }
 }

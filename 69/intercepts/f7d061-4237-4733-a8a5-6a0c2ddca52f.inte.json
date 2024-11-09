@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 1.2618605097568618,
+        "error": 33.01407708496706,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -9,14 +9,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 400,
         "include_baseline_error": false,
         "n": 400,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 115.56875132370271
+        "value": 110.77592532697663
     },
     "Ar37": {
         "error": 2.3523643976692595e-07,
@@ -57,7 +57,7 @@
         "value": 2.0118963781194447e-06
     },
     "Ar39": {
-        "error": 3.0610877512869044e-07,
+        "error": 5.038456157681476e-13,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -66,17 +66,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 9.873650540989517e-05
+        "value": 9.884325033551232e-05
     },
     "Ar40": {
-        "error": 1.4697213574037975e-06,
+        "error": 2.0654203106383877e-12,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -85,13 +85,13 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.0010676694165526115
+        "value": 0.0010529391765938243
     }
 }

@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 1.299249655824781,
+        "error": 32.165578496012884,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -9,14 +9,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 400,
         "include_baseline_error": false,
         "n": 400,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 133.81841648657138
+        "value": 129.35977815542867
     },
     "Ar37": {
         "error": 3.1226419036956156e-07,
@@ -57,7 +57,7 @@
         "value": 2.3851911323760957e-05
     },
     "Ar39": {
-        "error": 1.029990431570936e-06,
+        "error": 2.170165001729667e-12,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -66,17 +66,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.0013638533715971933
+        "value": 0.0013722901011543219
     },
     "Ar40": {
-        "error": 4.402645660376743e-06,
+        "error": 2.7114965851542892e-11,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -85,13 +85,13 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.008913866180493345
+        "value": 0.008952924958234087
     }
 }

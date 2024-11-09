@@ -19,7 +19,7 @@
         "value": 23.62203834052775
     },
     "Ar37": {
-        "error": 2.9142469883121497e-07,
+        "error": 4.411634671579996e-13,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -28,17 +28,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": -5.692258285731894e-08
+        "value": -5.6969587083155286e-08
     },
     "Ar38": {
-        "error": 2.5758072133122363e-07,
+        "error": 4.2228949398560377e-13,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -47,14 +47,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 2.1887320061659627e-06
+        "value": 2.4124189569195704e-06
     },
     "Ar39": {
         "error": 2.665563762980645e-07,
@@ -76,7 +76,7 @@
         "value": -3.3517065596004683e-07
     },
     "Ar40": {
-        "error": 1.4179328403352331e-06,
+        "error": 1.2718592330984047e-12,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -85,13 +85,13 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 7.093443077756047e-05
+        "value": 5.6976113406137594e-05
     }
 }

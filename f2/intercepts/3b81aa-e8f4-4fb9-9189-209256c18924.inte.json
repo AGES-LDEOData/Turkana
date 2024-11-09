@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.8984029400415938,
+        "error": 17.732256679502566,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -9,14 +9,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 400,
         "include_baseline_error": false,
         "n": 400,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 47.73138077305086
+        "value": 40.0055936893937
     },
     "Ar37": {
         "error": 2.7823566590194824e-07,
@@ -57,7 +57,7 @@
         "value": 3.581112338603608e-07
     },
     "Ar39": {
-        "error": 2.7871191546706254e-07,
+        "error": 5.825431298392993e-13,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -66,17 +66,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 1.9673604968478273e-05
+        "value": 2.0327635352418887e-05
     },
     "Ar40": {
-        "error": 1.411061404442977e-06,
+        "error": 1.3899443016599967e-12,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -85,13 +85,13 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.0003188245195479347
+        "value": 0.00030481209848337066
     }
 }

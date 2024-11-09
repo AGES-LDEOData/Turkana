@@ -19,7 +19,7 @@
         "value": 27.002677863921626
     },
     "Ar37": {
-        "error": 2.632392475975848e-07,
+        "error": 3.165515914024566e-13,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -28,17 +28,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 7.605465942831699e-09
+        "value": 7.579335686630148e-09
     },
     "Ar38": {
-        "error": 3.204861472363674e-07,
+        "error": 1.2427415462644216e-12,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -47,14 +47,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 2.7277071752910545e-06
+        "value": 5.009579171880824e-06
     },
     "Ar39": {
         "error": 2.870038013913871e-07,
@@ -76,7 +76,7 @@
         "value": 1.2153552011912279e-07
     },
     "Ar40": {
-        "error": 1.6330955281960392e-06,
+        "error": 1.8474085476164343e-12,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -85,13 +85,13 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 8.601980972074185e-05
+        "value": 6.943711109313582e-05
     }
 }

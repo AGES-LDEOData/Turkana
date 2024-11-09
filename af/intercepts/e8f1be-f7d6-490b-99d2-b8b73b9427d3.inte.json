@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 3.4186894285636322,
+        "error": 0.0,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -9,14 +9,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 400,
         "include_baseline_error": false,
         "n": 400,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 1237.5490058822108
+        "value": 1381.3569169107345
     },
     "Ar37": {
         "error": 2.725231697501196e-07,
@@ -38,7 +38,7 @@
         "value": 1.4214506572757328e-06
     },
     "Ar38": {
-        "error": 3.2750129844503327e-07,
+        "error": 6.352325661595585e-13,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -47,17 +47,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 6.847783048152296e-06
+        "value": 6.993636048890468e-06
     },
     "Ar39": {
-        "error": 3.180500261702004e-07,
+        "error": 5.66406453810388e-13,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -66,14 +66,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": -3.4435189072820117e-07
+        "value": -4.2449475197624956e-07
     },
     "Ar40": {
         "error": 1.1216307923688012e-05,

@@ -19,7 +19,7 @@
         "value": 12.368044673701016
     },
     "Ar37": {
-        "error": 3.084464719980286e-07,
+        "error": 1.8864026678927677e-12,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -28,17 +28,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": -4.6286958928469164e-07
+        "value": -2.4205789273001623e-06
     },
     "Ar38": {
-        "error": 3.0649455666980443e-07,
+        "error": 3.969832881455657e-13,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -47,14 +47,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": -9.98796406999463e-08
+        "value": -9.984403461453907e-08
     },
     "Ar39": {
         "error": 2.511251164711314e-07,
@@ -76,7 +76,7 @@
         "value": -2.3442866587464462e-07
     },
     "Ar40": {
-        "error": 1.0186972558533209e-06,
+        "error": 9.524243508029436e-13,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -85,13 +85,13 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 5.815915027759407e-05
+        "value": 4.84674315571101e-05
     }
 }

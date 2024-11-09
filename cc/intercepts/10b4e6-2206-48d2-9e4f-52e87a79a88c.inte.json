@@ -19,7 +19,7 @@
         "value": 47.5181543401723
     },
     "Ar37": {
-        "error": 3.4093640205204674e-07,
+        "error": 5.575739178561059e-13,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -28,17 +28,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.00012638486105917608
+        "value": 0.0001282649407098797
     },
     "Ar38": {
-        "error": 2.7824240877376543e-07,
+        "error": 6.308582854246559e-13,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -47,14 +47,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 1.246383654471735e-06
+        "value": 1.7111265210385747e-06
     },
     "Ar39": {
         "error": 2.973708822010952e-07,
@@ -76,7 +76,7 @@
         "value": 2.8343238084828954e-05
     },
     "Ar40": {
-        "error": 1.0585338272459355e-06,
+        "error": 1.3295776224532423e-12,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -85,13 +85,13 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.0002770607288615464
+        "value": 0.00026728656489312494
     }
 }

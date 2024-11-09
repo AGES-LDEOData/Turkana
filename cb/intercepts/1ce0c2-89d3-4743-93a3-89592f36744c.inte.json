@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.9947064999174817,
+        "error": 16.10246751326909,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -9,14 +9,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 400,
         "include_baseline_error": false,
         "n": 400,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 91.00256659740269
+        "value": 90.94696172807949
     },
     "Ar37": {
         "error": 3.3331401021281454e-07,
@@ -57,7 +57,7 @@
         "value": 1.4847931000045915e-06
     },
     "Ar39": {
-        "error": 2.479102528141049e-07,
+        "error": 9.536327307124203e-13,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -66,17 +66,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": -3.0115788242958994e-07
+        "value": -1.510502405101818e-06
     },
     "Ar40": {
-        "error": 1.1875150288841694e-06,
+        "error": 1.2604415887661844e-12,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -85,13 +85,13 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.000456335149076605
+        "value": 0.00044490472269821435
     }
 }

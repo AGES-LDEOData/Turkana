@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.6913122017429605,
+        "error": 8.387100697431679,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -9,14 +9,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 400,
         "include_baseline_error": false,
         "n": 400,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 25.994756030670118
+        "value": 24.526890711867054
     },
     "Ar37": {
         "error": 2.9225483613835013e-07,
@@ -57,7 +57,7 @@
         "value": 4.298664927055249e-07
     },
     "Ar39": {
-        "error": 3.2450184775480324e-07,
+        "error": 1.610682364870478e-12,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -66,17 +66,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 5.759279411225853e-06
+        "value": 5.499110472639608e-06
     },
     "Ar40": {
-        "error": 1.0605179368695275e-06,
+        "error": 6.124870141117474e-13,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -85,13 +85,13 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.00012962804955881808
+        "value": 0.00011912082093868987
     }
 }
