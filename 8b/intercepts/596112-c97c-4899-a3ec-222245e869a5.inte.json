@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 9.217796828845506,
+        "error": 9.217797086612201,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -16,10 +16,10 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 66.38538055846831
+        "value": 66.38539003447407
     },
     "Ar37": {
-        "error": 3.5107627333177743e-06,
+        "error": 3.5073640912360168e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -35,7 +35,7 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 1.2908079059440065e-06
+        "value": 1.2903475500110469e-06
     },
     "Ar38": {
         "error": 2.731933276047406e-07,
@@ -57,26 +57,7 @@
         "value": 1.2731047959252012e-06
     },
     "Ar39": {
-        "error": 2.740446803379421e-07,
-        "error_type": "SEM",
-        "filter_outliers_dict": {
-            "filter_outliers": false,
-            "iterations": 0,
-            "std_devs": 0,
-            "use_iqr_filtering": false,
-            "use_standard_deviation_filtering": false
-        },
-        "fit": "linear",
-        "fn": 40,
-        "include_baseline_error": false,
-        "n": 40,
-        "outlier_excluded": [],
-        "reviewed": true,
-        "user_excluded": [],
-        "value": 1.029393833643523e-07
-    },
-    "Ar40": {
-        "error": 1.0926425568123066e-06,
+        "error": 1.4142135623730951,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -92,6 +73,25 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.00032190746008881163
+        "value": 6.863375669278563e-07
+    },
+    "Ar40": {
+        "error": 1.0926424390325123e-06,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 0,
+            "std_devs": 0,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "exponential",
+        "fn": 40,
+        "include_baseline_error": false,
+        "n": 40,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.0003219074587316131
     }
 }

@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 5.719327913235297,
+        "error": 5.719328021670057,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -16,7 +16,7 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 19.186626164681797
+        "value": 19.18662990768587
     },
     "Ar37": {
         "error": 2.983286433882064e-07,
@@ -57,26 +57,7 @@
         "value": 1.205451883166644e-06
     },
     "Ar39": {
-        "error": 3.106129846501025e-07,
-        "error_type": "SEM",
-        "filter_outliers_dict": {
-            "filter_outliers": false,
-            "iterations": 0,
-            "std_devs": 0,
-            "use_iqr_filtering": false,
-            "use_standard_deviation_filtering": false
-        },
-        "fit": "linear",
-        "fn": 40,
-        "include_baseline_error": false,
-        "n": 40,
-        "outlier_excluded": [],
-        "reviewed": true,
-        "user_excluded": [],
-        "value": 2.6544883319986517e-06
-    },
-    "Ar40": {
-        "error": 8.558623567619933e-07,
+        "error": 1.849891280101075e-05,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -92,6 +73,25 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 7.262339997678006e-05
+        "value": -1.7770842953021038e-06
+    },
+    "Ar40": {
+        "error": 8.558626247354608e-07,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 0,
+            "std_devs": 0,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "exponential",
+        "fn": 40,
+        "include_baseline_error": false,
+        "n": 40,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 7.262340002842029e-05
     }
 }
