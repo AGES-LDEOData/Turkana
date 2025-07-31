@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 6.1633509287772,
+        "error": 0.6776976123658994,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -9,17 +9,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "exponential",
+        "fit": "linear",
         "fn": 400,
         "include_baseline_error": false,
         "n": 400,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 17.259923272332173
+        "value": 19.060749469469425
     },
     "Ar37": {
-        "error": 1.2826557315348533e-06,
+        "error": 3.2584824423483073e-07,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -28,14 +28,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "exponential",
+        "fit": "linear",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 2.6054392926534705e-05
+        "value": 2.5322586309404573e-05
     },
     "Ar38": {
         "error": 2.681798003052716e-07,
@@ -76,7 +76,7 @@
         "value": 2.8725693033815696e-05
     },
     "Ar40": {
-        "error": 1.8060129378635956e-06,
+        "error": 1.1966078389302897e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -85,13 +85,13 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "exponential",
+        "fit": "linear",
         "fn": 40,
         "include_baseline_error": false,
         "n": 40,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.0001829202157157757
+        "value": 0.00019428795751802528
     }
 }
