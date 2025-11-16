@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.8891095095707288,
+        "error": 1.6018357505428522,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -9,14 +9,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 750,
         "include_baseline_error": false,
         "n": 750,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 37.80279408697203
+        "value": 20.872926277463904
     },
     "Ar37": {
         "error": 2.2369014790301004e-07,
@@ -57,7 +57,7 @@
         "value": 3.278576555999176e-06
     },
     "Ar39": {
-        "error": 2.2768472359019354e-07,
+        "error": 4.4224044726360624e-07,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -66,17 +66,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 75,
         "include_baseline_error": false,
         "n": 75,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 2.2253893445237527e-05
+        "value": 2.273565440038427e-05
     },
     "Ar40": {
-        "error": 1.0698425009966546e-05,
+        "error": 3.5173958634392572e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -85,13 +85,13 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 75,
         "include_baseline_error": false,
         "n": 75,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.00026655559473646507
+        "value": 0.00011309503892520693
     }
 }

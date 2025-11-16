@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 1.0062399504214903,
+        "error": 1.8626904421045092,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -9,14 +9,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 750,
         "include_baseline_error": false,
         "n": 750,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 80.23736428769595
+        "value": 62.52266193103523
     },
     "Ar37": {
         "error": 2.546675034166448e-07,
@@ -57,7 +57,7 @@
         "value": 5.940343476241587e-06
     },
     "Ar39": {
-        "error": 1.817881339481276e-07,
+        "error": 3.7977691531106783e-07,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -66,17 +66,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 75,
         "include_baseline_error": false,
         "n": 75,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 7.666366742254376e-06
+        "value": 8.070634630023433e-06
     },
     "Ar40": {
-        "error": 1.3901980426014469e-05,
+        "error": 4.680166327687353e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -85,13 +85,13 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 75,
         "include_baseline_error": false,
         "n": 75,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.0004249416684321916
+        "value": 0.0002159929343361008
     }
 }

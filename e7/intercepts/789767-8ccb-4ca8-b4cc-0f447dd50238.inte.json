@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 1.196683709752276,
+        "error": 2.3075502590101475,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -9,14 +9,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 750,
         "include_baseline_error": false,
         "n": 750,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 204.73558333705137
+        "value": 194.1778741440806
     },
     "Ar37": {
         "error": 2.0789722346170507e-07,
@@ -57,7 +57,7 @@
         "value": 6.486122410667737e-06
     },
     "Ar39": {
-        "error": 1.8387349447979698e-07,
+        "error": 2.5085462980069623e-07,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -66,17 +66,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 75,
         "include_baseline_error": false,
         "n": 75,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 4.1214764960682375e-06
+        "value": 3.955528052033605e-06
     },
     "Ar40": {
-        "error": 1.1850177560311172e-05,
+        "error": 3.4795094554626125e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -85,13 +85,13 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "exponential",
         "fn": 75,
         "include_baseline_error": false,
         "n": 75,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.0010815311913668045
+        "value": 0.000899694657649712
     }
 }
